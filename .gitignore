@@ -1,0 +1,12 @@
+data/ 
+.venv/
+.env
+build/
+dist/
+
+
+
+# Added by cargo
+
+/target
+
